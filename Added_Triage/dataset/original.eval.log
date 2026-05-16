@@ -1,0 +1,2554 @@
+10:25:01 [INFO] vuln_triage.eval_pipeline: Parsed 848 entries from dataset/original.json
+10:25:01 [INFO] vuln_triage.eval_pipeline: Wrote 848 snippets to /var/folders/8q/vr77dfgx41zdlr6z4_ylwvm40000gn/T/eval_src_cp5syxyl
+10:25:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:06 [INFO] vuln_triage.eval_pipeline: [idx=634] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:25:06 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:07 [INFO] vuln_triage.eval_pipeline: [idx=231] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:25:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:07 [INFO] vuln_triage.eval_pipeline: [idx=594] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:25:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:07 [INFO] vuln_triage.eval_pipeline: [idx=588] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:25:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:07 [INFO] vuln_triage.eval_pipeline: [idx=837] predicted=false_positive actual=true_positive correct=False (conf=0.90)
+10:25:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:11 [INFO] vuln_triage.eval_pipeline: [idx=682] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:25:11 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:15 [INFO] vuln_triage.eval_pipeline: [idx=364] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:25:15 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:15 [INFO] vuln_triage.eval_pipeline: [idx=105] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:25:15 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:16 [INFO] vuln_triage.eval_pipeline: [idx=483] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:25:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:16 [INFO] vuln_triage.eval_pipeline: [idx=485] predicted=false_positive actual=true_positive correct=False (conf=0.75)
+10:25:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:20 [INFO] vuln_triage.eval_pipeline: [idx=374] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:25:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:21 [INFO] vuln_triage.eval_pipeline: [idx=458] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:25:21 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:22 [INFO] vuln_triage.eval_pipeline: [idx=581] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:25:22 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:22 [INFO] vuln_triage.eval_pipeline: [idx=409] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:25:22 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:26 [INFO] vuln_triage.eval_pipeline: [idx=419] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:25:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:26 [INFO] vuln_triage.eval_pipeline: [idx=800] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:25:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:27 [INFO] vuln_triage.eval_pipeline: [idx=532] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:25:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:27 [INFO] vuln_triage.eval_pipeline: [idx=110] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:25:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:28 [INFO] vuln_triage.eval_pipeline: [idx=126] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:25:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:33 [INFO] vuln_triage.eval_pipeline: [idx=327] predicted=false_positive actual=false_positive correct=True (conf=0.90)
+10:25:33 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:33 [INFO] vuln_triage.eval_pipeline: [idx=320] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:25:33 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:34 [INFO] vuln_triage.eval_pipeline: [idx=45] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:25:34 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:36 [INFO] vuln_triage.eval_pipeline: [idx=757] predicted=false_positive actual=true_positive correct=False (conf=0.92)
+10:25:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:38 [INFO] vuln_triage.eval_pipeline: [idx=474] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:25:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:39 [INFO] vuln_triage.eval_pipeline: [idx=264] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:25:39 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:41 [INFO] vuln_triage.eval_pipeline: [idx=162] predicted=false_positive actual=false_positive correct=True (conf=0.99)
+10:25:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:41 [INFO] vuln_triage.eval_pipeline: [idx=312] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:25:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:44 [INFO] vuln_triage.eval_pipeline: [idx=447] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:25:44 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:45 [INFO] vuln_triage.eval_pipeline: [idx=88] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:25:45 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:46 [INFO] vuln_triage.eval_pipeline: [idx=482] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:25:46 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:47 [INFO] vuln_triage.eval_pipeline: [idx=401] predicted=false_positive actual=false_positive correct=True (conf=0.65)
+10:25:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:47 [INFO] vuln_triage.eval_pipeline: [idx=294] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:25:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:49 [INFO] vuln_triage.eval_pipeline: [idx=443] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:25:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:49 [INFO] vuln_triage.eval_pipeline: [idx=690] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:25:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:53 [INFO] vuln_triage.eval_pipeline: [idx=707] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:25:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:54 [INFO] vuln_triage.eval_pipeline: [idx=716] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:25:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:55 [INFO] vuln_triage.eval_pipeline: [idx=627] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:25:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:56 [INFO] vuln_triage.eval_pipeline: [idx=689] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:25:56 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:56 [INFO] vuln_triage.eval_pipeline: [idx=92] predicted=true_positive actual=false_positive correct=False (conf=0.98)
+10:25:56 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:59 [INFO] vuln_triage.eval_pipeline: [idx=301] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:25:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:25:59 [INFO] vuln_triage.eval_pipeline: [idx=24] predicted=true_positive actual=false_positive correct=False (conf=0.99)
+10:25:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:00 [INFO] vuln_triage.eval_pipeline: [idx=247] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:26:00 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:01 [INFO] vuln_triage.eval_pipeline: [idx=440] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:26:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:02 [INFO] vuln_triage.eval_pipeline: [idx=36] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:26:02 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:05 [INFO] vuln_triage.eval_pipeline: [idx=174] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:26:05 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:05 [INFO] vuln_triage.eval_pipeline: [idx=649] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:26:05 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:07 [INFO] vuln_triage.eval_pipeline: [idx=575] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:26:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:09 [INFO] vuln_triage.eval_pipeline: [idx=516] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:26:09 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:09 [INFO] vuln_triage.eval_pipeline: [idx=617] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:26:09 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:09 [INFO] vuln_triage.eval_pipeline: [idx=28] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:26:09 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:10 [INFO] vuln_triage.eval_pipeline: [idx=329] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:26:10 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:11 [INFO] vuln_triage.eval_pipeline: [idx=442] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:26:11 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:15 [INFO] vuln_triage.eval_pipeline: [idx=728] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:26:15 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:16 [INFO] vuln_triage.eval_pipeline: [idx=510] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:26:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:19 [INFO] vuln_triage.eval_pipeline: [idx=150] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:26:19 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:19 [INFO] vuln_triage.eval_pipeline: [idx=49] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:26:19 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:20 [INFO] vuln_triage.eval_pipeline: [idx=501] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:26:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:20 [INFO] vuln_triage.eval_pipeline: [idx=29] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:26:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:24 [INFO] vuln_triage.eval_pipeline: [idx=41] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:26:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:24 [INFO] vuln_triage.eval_pipeline: [idx=508] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:26:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:27 [INFO] vuln_triage.eval_pipeline: [idx=378] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:26:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:28 [INFO] vuln_triage.eval_pipeline: [idx=495] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:26:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:30 [INFO] vuln_triage.eval_pipeline: [idx=333] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:26:30 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:32 [INFO] vuln_triage.eval_pipeline: [idx=78] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:26:32 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:32 [INFO] vuln_triage.eval_pipeline: [idx=33] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:26:32 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:32 [INFO] vuln_triage.eval_pipeline: [idx=446] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:26:32 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:35 [INFO] vuln_triage.eval_pipeline: [idx=533] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:26:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:38 [INFO] vuln_triage.eval_pipeline: [idx=428] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:26:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:38 [INFO] vuln_triage.eval_pipeline: [idx=669] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:26:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:40 [INFO] vuln_triage.eval_pipeline: [idx=724] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:26:40 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:40 [INFO] vuln_triage.eval_pipeline: [idx=791] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:26:40 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:43 [INFO] vuln_triage.eval_pipeline: [idx=148] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:26:43 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:44 [INFO] vuln_triage.eval_pipeline: [idx=289] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:26:44 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:45 [INFO] vuln_triage.eval_pipeline: [idx=221] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:26:45 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:46 [INFO] vuln_triage.eval_pipeline: [idx=480] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:26:46 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:48 [INFO] vuln_triage.eval_pipeline: [idx=674] predicted=false_positive actual=true_positive correct=False (conf=0.97)
+10:26:48 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:48 [INFO] vuln_triage.eval_pipeline: [idx=8] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:26:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:50 [INFO] vuln_triage.eval_pipeline: [idx=251] predicted=false_positive actual=false_positive correct=True (conf=0.99)
+10:26:50 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:53 [INFO] vuln_triage.eval_pipeline: [idx=793] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:26:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:53 [INFO] vuln_triage.eval_pipeline: [idx=766] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:26:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:55 [INFO] vuln_triage.eval_pipeline: [idx=256] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:26:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:55 [INFO] vuln_triage.eval_pipeline: [idx=776] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:26:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:56 [INFO] vuln_triage.eval_pipeline: [idx=571] predicted=true_positive actual=true_positive correct=True (conf=0.97)
+10:26:56 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:26:58 [INFO] vuln_triage.eval_pipeline: [idx=678] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:26:58 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:03 [INFO] vuln_triage.eval_pipeline: [idx=670] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:27:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:03 [INFO] vuln_triage.eval_pipeline: [idx=784] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:27:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:04 [INFO] vuln_triage.eval_pipeline: [idx=277] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:27:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:10 [INFO] vuln_triage.eval_pipeline: [idx=316] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:27:10 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:10 [INFO] vuln_triage.eval_pipeline: [idx=50] predicted=false_positive actual=false_positive correct=True (conf=0.88)
+10:27:10 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:11 [INFO] vuln_triage.eval_pipeline: [idx=9] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:27:11 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:13 [INFO] vuln_triage.eval_pipeline: [idx=302] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:27:13 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:15 [INFO] vuln_triage.eval_pipeline: [idx=185] predicted=true_positive actual=false_positive correct=False (conf=0.82)
+10:27:15 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:15 [INFO] vuln_triage.eval_pipeline: [idx=706] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:27:15 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:16 [INFO] vuln_triage.eval_pipeline: [idx=236] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:27:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:18 [INFO] vuln_triage.eval_pipeline: [idx=843] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:27:18 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:21 [INFO] vuln_triage.eval_pipeline: [idx=679] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:27:21 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:22 [INFO] vuln_triage.eval_pipeline: [idx=417] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:27:22 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:24 [INFO] vuln_triage.eval_pipeline: [idx=74] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:27:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:27 [INFO] vuln_triage.eval_pipeline: [idx=494] predicted=false_positive actual=true_positive correct=False (conf=0.92)
+10:27:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:27 [INFO] vuln_triage.eval_pipeline: [idx=200] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:27:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:28 [INFO] vuln_triage.eval_pipeline: [idx=820] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:27:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:30 [INFO] vuln_triage.eval_pipeline: [idx=132] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:27:30 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:30 [INFO] vuln_triage.eval_pipeline: [idx=504] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:27:30 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:34 [INFO] vuln_triage.eval_pipeline: [idx=568] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:27:34 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:35 [INFO] vuln_triage.eval_pipeline: [idx=743] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:27:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:35 [INFO] vuln_triage.eval_pipeline: [idx=350] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:27:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:36 [INFO] vuln_triage.eval_pipeline: [idx=630] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:27:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:36 [INFO] vuln_triage.eval_pipeline: [idx=191] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:27:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:38 [INFO] vuln_triage.eval_pipeline: [idx=573] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:27:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:39 [INFO] vuln_triage.eval_pipeline: [idx=427] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:27:39 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:42 [INFO] vuln_triage.eval_pipeline: [idx=668] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:27:42 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:42 [INFO] vuln_triage.eval_pipeline: [idx=644] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:27:42 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:43 [INFO] vuln_triage.eval_pipeline: [idx=202] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:27:43 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:45 [INFO] vuln_triage.eval_pipeline: [idx=824] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:27:45 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:45 [INFO] vuln_triage.eval_pipeline: [idx=609] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:27:45 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:48 [INFO] vuln_triage.eval_pipeline: [idx=422] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:27:48 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:49 [INFO] vuln_triage.eval_pipeline: [idx=397] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:27:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:50 [INFO] vuln_triage.eval_pipeline: [idx=391] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:27:50 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:50 [INFO] vuln_triage.eval_pipeline: [idx=456] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:27:50 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:53 [INFO] vuln_triage.eval_pipeline: [idx=830] predicted=false_positive actual=true_positive correct=False (conf=0.75)
+10:27:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:54 [INFO] vuln_triage.eval_pipeline: [idx=330] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:27:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:54 [INFO] vuln_triage.eval_pipeline: [idx=578] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:27:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:27:55 [INFO] vuln_triage.eval_pipeline: [idx=762] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:27:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:00 [INFO] vuln_triage.eval_pipeline: [idx=765] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:28:00 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:00 [INFO] vuln_triage.eval_pipeline: [idx=625] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:28:00 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:02 [INFO] vuln_triage.eval_pipeline: [idx=31] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:28:02 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:03 [INFO] vuln_triage.eval_pipeline: [idx=395] predicted=true_positive actual=false_positive correct=False (conf=0.90)
+10:28:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:05 [INFO] vuln_triage.eval_pipeline: [idx=358] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:28:05 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:07 [INFO] vuln_triage.eval_pipeline: [idx=10] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:28:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:08 [INFO] vuln_triage.eval_pipeline: [idx=592] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:28:08 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:09 [INFO] vuln_triage.eval_pipeline: [idx=17] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:28:09 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:11 [INFO] vuln_triage.eval_pipeline: [idx=425] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:28:11 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:12 [INFO] vuln_triage.eval_pipeline: [idx=13] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:28:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:13 [INFO] vuln_triage.eval_pipeline: [idx=308] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:28:13 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:13 [INFO] vuln_triage.eval_pipeline: [idx=769] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:28:14 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:16 [INFO] vuln_triage.eval_pipeline: [idx=343] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:28:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:16 [INFO] vuln_triage.eval_pipeline: [idx=778] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:28:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:18 [INFO] vuln_triage.eval_pipeline: [idx=64] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:28:18 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:18 [INFO] vuln_triage.eval_pipeline: [idx=315] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:28:18 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:20 [INFO] vuln_triage.eval_pipeline: [idx=502] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:28:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:22 [INFO] vuln_triage.eval_pipeline: [idx=712] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:28:22 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:23 [INFO] vuln_triage.eval_pipeline: [idx=535] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:28:23 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:26 [INFO] vuln_triage.eval_pipeline: [idx=198] predicted=true_positive actual=false_positive correct=False (conf=0.98)
+10:28:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:27 [INFO] vuln_triage.eval_pipeline: [idx=173] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:28:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:28 [INFO] vuln_triage.eval_pipeline: [idx=393] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:28:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:30 [INFO] vuln_triage.eval_pipeline: [idx=213] predicted=true_positive actual=false_positive correct=False (conf=0.99)
+10:28:30 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:30 [INFO] vuln_triage.eval_pipeline: [idx=589] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:28:30 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:33 [INFO] vuln_triage.eval_pipeline: [idx=811] predicted=true_positive actual=true_positive correct=True (conf=0.85)
+10:28:33 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:35 [INFO] vuln_triage.eval_pipeline: [idx=241] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:28:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:37 [INFO] vuln_triage.eval_pipeline: [idx=118] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:28:37 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:38 [INFO] vuln_triage.eval_pipeline: [idx=601] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:28:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:39 [INFO] vuln_triage.eval_pipeline: [idx=239] predicted=true_positive actual=false_positive correct=False (conf=0.82)
+10:28:39 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:40 [INFO] vuln_triage.eval_pipeline: [idx=34] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:28:40 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:43 [INFO] vuln_triage.eval_pipeline: [idx=577] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:28:43 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:43 [INFO] vuln_triage.eval_pipeline: [idx=411] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:28:43 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:44 [INFO] vuln_triage.eval_pipeline: [idx=463] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:28:44 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:47 [INFO] vuln_triage.eval_pipeline: [idx=745] predicted=true_positive actual=true_positive correct=True (conf=0.75)
+10:28:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:47 [INFO] vuln_triage.eval_pipeline: [idx=631] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:28:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:48 [INFO] vuln_triage.eval_pipeline: [idx=812] predicted=true_positive actual=true_positive correct=True (conf=0.85)
+10:28:48 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:48 [INFO] vuln_triage.eval_pipeline: [idx=611] predicted=false_positive actual=true_positive correct=False (conf=0.98)
+10:28:48 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:50 [INFO] vuln_triage.eval_pipeline: [idx=805] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:28:50 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:52 [INFO] vuln_triage.eval_pipeline: [idx=771] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:28:52 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:53 [INFO] vuln_triage.eval_pipeline: [idx=227] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:28:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:56 [INFO] vuln_triage.eval_pipeline: [idx=290] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:28:56 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:56 [INFO] vuln_triage.eval_pipeline: [idx=201] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:28:56 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:28:57 [INFO] vuln_triage.eval_pipeline: [idx=825] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:28:57 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:03 [INFO] vuln_triage.eval_pipeline: [idx=172] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:29:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:03 [INFO] vuln_triage.eval_pipeline: [idx=582] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:29:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:03 [INFO] vuln_triage.eval_pipeline: [idx=400] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:29:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:03 [INFO] vuln_triage.eval_pipeline: [idx=42] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:29:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:05 [INFO] vuln_triage.eval_pipeline: [idx=386] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:29:05 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:07 [INFO] vuln_triage.eval_pipeline: [idx=833] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:29:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:08 [INFO] vuln_triage.eval_pipeline: [idx=460] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:29:08 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:10 [INFO] vuln_triage.eval_pipeline: [idx=306] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:29:10 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:11 [INFO] vuln_triage.eval_pipeline: [idx=56] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:29:11 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:13 [INFO] vuln_triage.eval_pipeline: [idx=137] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:29:13 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:14 [INFO] vuln_triage.eval_pipeline: [idx=188] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:29:14 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:15 [INFO] vuln_triage.eval_pipeline: [idx=719] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:29:15 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:17 [INFO] vuln_triage.eval_pipeline: [idx=715] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:29:17 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:17 [INFO] vuln_triage.eval_pipeline: [idx=262] predicted=false_positive actual=false_positive correct=True (conf=0.90)
+10:29:17 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:19 [INFO] vuln_triage.eval_pipeline: [idx=421] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:29:19 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:23 [INFO] vuln_triage.eval_pipeline: [idx=525] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:29:23 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:23 [INFO] vuln_triage.eval_pipeline: [idx=335] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:29:23 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:24 [INFO] vuln_triage.eval_pipeline: [idx=147] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:29:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:25 [INFO] vuln_triage.eval_pipeline: [idx=5] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:29:25 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:28 [INFO] vuln_triage.eval_pipeline: [idx=493] predicted=false_positive actual=true_positive correct=False (conf=0.90)
+10:29:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:28 [INFO] vuln_triage.eval_pipeline: [idx=272] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:29:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:30 [INFO] vuln_triage.eval_pipeline: [idx=683] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:29:30 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:30 [INFO] vuln_triage.eval_pipeline: [idx=402] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:29:30 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:34 [INFO] vuln_triage.eval_pipeline: [idx=149] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:29:34 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:36 [INFO] vuln_triage.eval_pipeline: [idx=345] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:29:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:36 [INFO] vuln_triage.eval_pipeline: [idx=802] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:29:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:37 [INFO] vuln_triage.eval_pipeline: [idx=119] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:29:37 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:38 [INFO] vuln_triage.eval_pipeline: [idx=564] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:29:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:40 [INFO] vuln_triage.eval_pipeline: [idx=454] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:29:40 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:42 [INFO] vuln_triage.eval_pipeline: [idx=84] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:29:42 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:45 [INFO] vuln_triage.eval_pipeline: [idx=265] predicted=false_positive actual=false_positive correct=True (conf=0.90)
+10:29:45 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:47 [INFO] vuln_triage.eval_pipeline: [idx=16] predicted=true_positive actual=false_positive correct=False (conf=0.98)
+10:29:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:50 [INFO] vuln_triage.eval_pipeline: [idx=177] predicted=true_positive actual=false_positive correct=False (conf=0.98)
+10:29:50 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:50 [INFO] vuln_triage.eval_pipeline: [idx=180] predicted=true_positive actual=false_positive correct=False (conf=0.88)
+10:29:50 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:53 [INFO] vuln_triage.eval_pipeline: [idx=106] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:29:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:53 [INFO] vuln_triage.eval_pipeline: [idx=311] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:29:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:55 [INFO] vuln_triage.eval_pipeline: [idx=695] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:29:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:56 [INFO] vuln_triage.eval_pipeline: [idx=423] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:29:56 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:56 [INFO] vuln_triage.eval_pipeline: [idx=39] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:29:56 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:58 [INFO] vuln_triage.eval_pipeline: [idx=325] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:29:58 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:29:59 [INFO] vuln_triage.eval_pipeline: [idx=632] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:29:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:03 [INFO] vuln_triage.eval_pipeline: [idx=249] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:30:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:04 [INFO] vuln_triage.eval_pipeline: [idx=528] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:30:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:05 [INFO] vuln_triage.eval_pipeline: [idx=555] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:30:05 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:05 [INFO] vuln_triage.eval_pipeline: [idx=85] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:30:05 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:05 [INFO] vuln_triage.eval_pipeline: [idx=138] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:30:05 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:07 [INFO] vuln_triage.eval_pipeline: [idx=756] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:30:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:10 [INFO] vuln_triage.eval_pipeline: [idx=676] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:30:10 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:12 [INFO] vuln_triage.eval_pipeline: [idx=809] predicted=true_positive actual=true_positive correct=True (conf=0.97)
+10:30:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:12 [INFO] vuln_triage.eval_pipeline: [idx=740] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:30:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:14 [INFO] vuln_triage.eval_pipeline: [idx=61] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:30:14 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:17 [INFO] vuln_triage.eval_pipeline: [idx=569] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:30:17 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:20 [INFO] vuln_triage.eval_pipeline: [idx=268] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:30:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:20 [INFO] vuln_triage.eval_pipeline: [idx=730] predicted=false_positive actual=true_positive correct=False (conf=0.92)
+10:30:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:21 [INFO] vuln_triage.eval_pipeline: [idx=356] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:30:21 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:22 [INFO] vuln_triage.eval_pipeline: [idx=199] predicted=false_positive actual=false_positive correct=True (conf=0.55)
+10:30:22 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:24 [INFO] vuln_triage.eval_pipeline: [idx=515] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:30:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:26 [INFO] vuln_triage.eval_pipeline: [idx=826] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:30:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:27 [INFO] vuln_triage.eval_pipeline: [idx=702] predicted=true_positive actual=true_positive correct=True (conf=0.97)
+10:30:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:27 [INFO] vuln_triage.eval_pipeline: [idx=629] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:30:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:27 [INFO] vuln_triage.eval_pipeline: [idx=192] predicted=false_positive actual=false_positive correct=True (conf=0.99)
+10:30:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:29 [INFO] vuln_triage.eval_pipeline: [idx=340] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:30:29 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:31 [INFO] vuln_triage.eval_pipeline: [idx=818] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:30:31 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:31 [INFO] vuln_triage.eval_pipeline: [idx=435] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:30:31 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:33 [INFO] vuln_triage.eval_pipeline: [idx=560] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:30:33 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:35 [INFO] vuln_triage.eval_pipeline: [idx=530] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:30:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:36 [INFO] vuln_triage.eval_pipeline: [idx=523] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:30:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:36 [INFO] vuln_triage.eval_pipeline: [idx=229] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:30:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:36 [INFO] vuln_triage.eval_pipeline: [idx=299] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:30:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:41 [INFO] vuln_triage.eval_pipeline: [idx=687] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:30:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:41 [INFO] vuln_triage.eval_pipeline: [idx=232] predicted=uncertain actual=false_positive correct=False (conf=0.30)
+10:30:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:42 [INFO] vuln_triage.eval_pipeline: [idx=369] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:30:42 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:42 [INFO] vuln_triage.eval_pipeline: [idx=140] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:30:42 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:46 [INFO] vuln_triage.eval_pipeline: [idx=293] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:30:46 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:46 [INFO] vuln_triage.eval_pipeline: [idx=652] predicted=false_positive actual=true_positive correct=False (conf=0.97)
+10:30:46 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:48 [INFO] vuln_triage.eval_pipeline: [idx=129] predicted=true_positive actual=false_positive correct=False (conf=0.99)
+10:30:48 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:49 [INFO] vuln_triage.eval_pipeline: [idx=184] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:30:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:51 [INFO] vuln_triage.eval_pipeline: [idx=375] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:30:51 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:52 [INFO] vuln_triage.eval_pipeline: [idx=761] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:30:52 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:54 [INFO] vuln_triage.eval_pipeline: [idx=398] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:30:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:55 [INFO] vuln_triage.eval_pipeline: [idx=841] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:30:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:57 [INFO] vuln_triage.eval_pipeline: [idx=751] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:30:57 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:57 [INFO] vuln_triage.eval_pipeline: [idx=193] predicted=false_positive actual=false_positive correct=True (conf=0.60)
+10:30:57 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:30:59 [INFO] vuln_triage.eval_pipeline: [idx=381] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:30:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:02 [INFO] vuln_triage.eval_pipeline: [idx=152] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:31:02 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:02 [INFO] vuln_triage.eval_pipeline: [idx=524] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:31:02 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:02 [INFO] vuln_triage.eval_pipeline: [idx=685] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:31:02 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:03 [INFO] vuln_triage.eval_pipeline: [idx=576] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:31:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:03 [INFO] vuln_triage.eval_pipeline: [idx=788] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:31:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:07 [INFO] vuln_triage.eval_pipeline: [idx=548] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:31:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:08 [INFO] vuln_triage.eval_pipeline: [idx=727] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:31:08 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:09 [INFO] vuln_triage.eval_pipeline: [idx=355] predicted=true_positive actual=false_positive correct=False (conf=0.98)
+10:31:09 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:11 [INFO] vuln_triage.eval_pipeline: [idx=639] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:31:11 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:12 [INFO] vuln_triage.eval_pipeline: [idx=396] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:31:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:14 [INFO] vuln_triage.eval_pipeline: [idx=845] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:31:14 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:16 [INFO] vuln_triage.eval_pipeline: [idx=729] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:31:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:17 [INFO] vuln_triage.eval_pipeline: [idx=705] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:31:17 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:18 [INFO] vuln_triage.eval_pipeline: [idx=392] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:31:18 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:18 [INFO] vuln_triage.eval_pipeline: [idx=237] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:31:18 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:20 [INFO] vuln_triage.eval_pipeline: [idx=680] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:31:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:23 [INFO] vuln_triage.eval_pipeline: [idx=814] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:31:23 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:24 [INFO] vuln_triage.eval_pipeline: [idx=626] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:31:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:24 [INFO] vuln_triage.eval_pipeline: [idx=124] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:31:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:24 [INFO] vuln_triage.eval_pipeline: [idx=304] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:31:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:27 [INFO] vuln_triage.eval_pipeline: [idx=357] predicted=true_positive actual=false_positive correct=False (conf=0.82)
+10:31:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:29 [INFO] vuln_triage.eval_pipeline: [idx=651] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:31:29 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:30 [INFO] vuln_triage.eval_pipeline: [idx=212] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:31:30 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:31 [INFO] vuln_triage.eval_pipeline: [idx=775] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:31:31 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:33 [INFO] vuln_triage.eval_pipeline: [idx=593] predicted=uncertain actual=true_positive correct=False (conf=0.50)
+10:31:33 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:34 [INFO] vuln_triage.eval_pipeline: [idx=607] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:31:34 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:36 [INFO] vuln_triage.eval_pipeline: [idx=659] predicted=false_positive actual=true_positive correct=False (conf=0.80)
+10:31:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:37 [INFO] vuln_triage.eval_pipeline: [idx=489] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:31:37 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:39 [INFO] vuln_triage.eval_pipeline: [idx=23] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:31:39 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:42 [INFO] vuln_triage.eval_pipeline: [idx=368] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:31:42 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:43 [INFO] vuln_triage.eval_pipeline: [idx=101] predicted=false_positive actual=false_positive correct=True (conf=0.90)
+10:31:43 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:43 [INFO] vuln_triage.eval_pipeline: [idx=415] predicted=false_positive actual=false_positive correct=True (conf=0.90)
+10:31:43 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:43 [INFO] vuln_triage.eval_pipeline: [idx=503] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:31:43 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:46 [INFO] vuln_triage.eval_pipeline: [idx=115] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:31:46 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:48 [INFO] vuln_triage.eval_pipeline: [idx=171] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:31:48 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:51 [INFO] vuln_triage.eval_pipeline: [idx=120] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:31:51 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:52 [INFO] vuln_triage.eval_pipeline: [idx=444] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:31:52 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:52 [INFO] vuln_triage.eval_pipeline: [idx=263] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:31:52 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:58 [INFO] vuln_triage.eval_pipeline: [idx=86] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:31:58 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:59 [INFO] vuln_triage.eval_pipeline: [idx=471] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:31:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:31:59 [INFO] vuln_triage.eval_pipeline: [idx=43] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:31:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:01 [INFO] vuln_triage.eval_pipeline: [idx=487] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:32:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:03 [INFO] vuln_triage.eval_pipeline: [idx=703] predicted=true_positive actual=true_positive correct=True (conf=0.85)
+10:32:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:04 [INFO] vuln_triage.eval_pipeline: [idx=752] predicted=false_positive actual=true_positive correct=False (conf=0.98)
+10:32:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:05 [INFO] vuln_triage.eval_pipeline: [idx=430] predicted=true_positive actual=true_positive correct=True (conf=0.97)
+10:32:05 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:06 [INFO] vuln_triage.eval_pipeline: [idx=772] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:32:06 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:07 [INFO] vuln_triage.eval_pipeline: [idx=336] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:32:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:10 [INFO] vuln_triage.eval_pipeline: [idx=774] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:32:10 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:11 [INFO] vuln_triage.eval_pipeline: [idx=434] predicted=true_positive actual=true_positive correct=True (conf=0.85)
+10:32:11 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:15 [INFO] vuln_triage.eval_pipeline: [idx=406] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:32:15 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:16 [INFO] vuln_triage.eval_pipeline: [idx=660] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:32:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:16 [INFO] vuln_triage.eval_pipeline: [idx=723] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:32:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:21 [INFO] vuln_triage.eval_pipeline: [idx=155] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:32:21 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:22 [INFO] vuln_triage.eval_pipeline: [idx=280] predicted=true_positive actual=false_positive correct=False (conf=0.98)
+10:32:22 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:23 [INFO] vuln_triage.eval_pipeline: [idx=164] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:32:23 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:23 [INFO] vuln_triage.eval_pipeline: [idx=481] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:32:23 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:27 [INFO] vuln_triage.eval_pipeline: [idx=207] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:32:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:28 [INFO] vuln_triage.eval_pipeline: [idx=834] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:32:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:29 [INFO] vuln_triage.eval_pipeline: [idx=544] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:32:29 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:30 [INFO] vuln_triage.eval_pipeline: [idx=215] predicted=false_positive actual=false_positive correct=True (conf=0.90)
+10:32:30 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:32 [INFO] vuln_triage.eval_pipeline: [idx=507] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:32:32 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:34 [INFO] vuln_triage.eval_pipeline: [idx=366] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:32:34 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:34 [INFO] vuln_triage.eval_pipeline: [idx=628] predicted=false_positive actual=true_positive correct=False (conf=0.99)
+10:32:34 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:34 [INFO] vuln_triage.eval_pipeline: [idx=291] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:32:34 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:37 [INFO] vuln_triage.eval_pipeline: [idx=206] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:32:37 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:38 [INFO] vuln_triage.eval_pipeline: [idx=518] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:32:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:39 [INFO] vuln_triage.eval_pipeline: [idx=151] predicted=true_positive actual=false_positive correct=False (conf=0.82)
+10:32:39 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:40 [INFO] vuln_triage.eval_pipeline: [idx=646] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:32:40 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:41 [INFO] vuln_triage.eval_pipeline: [idx=749] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:32:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:42 [INFO] vuln_triage.eval_pipeline: [idx=472] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:32:42 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:42 [INFO] vuln_triage.eval_pipeline: [idx=559] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:32:42 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:47 [INFO] vuln_triage.eval_pipeline: [idx=354] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:32:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:48 [INFO] vuln_triage.eval_pipeline: [idx=385] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:32:48 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:48 [INFO] vuln_triage.eval_pipeline: [idx=63] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:32:48 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:48 [INFO] vuln_triage.eval_pipeline: [idx=783] predicted=true_positive actual=true_positive correct=True (conf=0.75)
+10:32:48 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:49 [INFO] vuln_triage.eval_pipeline: [idx=803] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:32:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:52 [INFO] vuln_triage.eval_pipeline: [idx=556] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:32:52 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:53 [INFO] vuln_triage.eval_pipeline: [idx=414] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:32:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:57 [INFO] vuln_triage.eval_pipeline: [idx=620] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:32:57 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:57 [INFO] vuln_triage.eval_pipeline: [idx=499] predicted=true_positive actual=true_positive correct=True (conf=0.85)
+10:32:57 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:32:59 [INFO] vuln_triage.eval_pipeline: [idx=662] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:32:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:02 [INFO] vuln_triage.eval_pipeline: [idx=439] predicted=false_positive actual=true_positive correct=False (conf=0.98)
+10:33:02 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:04 [INFO] vuln_triage.eval_pipeline: [idx=266] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:33:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:04 [INFO] vuln_triage.eval_pipeline: [idx=403] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:33:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:06 [INFO] vuln_triage.eval_pipeline: [idx=130] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:33:06 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:06 [INFO] vuln_triage.eval_pipeline: [idx=97] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:33:06 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:09 [INFO] vuln_triage.eval_pipeline: [idx=295] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:33:09 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:10 [INFO] vuln_triage.eval_pipeline: [idx=796] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:33:10 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:11 [INFO] vuln_triage.eval_pipeline: [idx=261] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:33:11 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:12 [INFO] vuln_triage.eval_pipeline: [idx=197] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:33:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:12 [INFO] vuln_triage.eval_pipeline: [idx=310] predicted=true_positive actual=false_positive correct=False (conf=0.99)
+10:33:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:16 [INFO] vuln_triage.eval_pipeline: [idx=672] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:33:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:17 [INFO] vuln_triage.eval_pipeline: [idx=176] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:33:17 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:18 [INFO] vuln_triage.eval_pipeline: [idx=542] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:33:18 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:19 [INFO] vuln_triage.eval_pipeline: [idx=828] predicted=false_positive actual=true_positive correct=False (conf=0.75)
+10:33:19 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:22 [INFO] vuln_triage.eval_pipeline: [idx=431] predicted=true_positive actual=true_positive correct=True (conf=0.97)
+10:33:22 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:24 [INFO] vuln_triage.eval_pipeline: [idx=786] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:33:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:24 [INFO] vuln_triage.eval_pipeline: [idx=297] predicted=true_positive actual=false_positive correct=False (conf=0.99)
+10:33:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:28 [INFO] vuln_triage.eval_pipeline: [idx=770] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:33:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:28 [INFO] vuln_triage.eval_pipeline: [idx=490] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:33:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:30 [INFO] vuln_triage.eval_pipeline: [idx=466] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:33:30 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:31 [INFO] vuln_triage.eval_pipeline: [idx=133] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:33:31 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:33 [INFO] vuln_triage.eval_pipeline: [idx=14] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:33:33 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:34 [INFO] vuln_triage.eval_pipeline: [idx=641] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:33:34 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:35 [INFO] vuln_triage.eval_pipeline: [idx=734] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:33:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:36 [INFO] vuln_triage.eval_pipeline: [idx=160] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:33:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:37 [INFO] vuln_triage.eval_pipeline: [idx=583] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:33:37 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:40 [INFO] vuln_triage.eval_pipeline: [idx=328] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:33:40 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:41 [INFO] vuln_triage.eval_pipeline: [idx=365] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:33:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:42 [INFO] vuln_triage.eval_pipeline: [idx=260] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:33:42 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:44 [INFO] vuln_triage.eval_pipeline: [idx=372] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:33:44 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:44 [INFO] vuln_triage.eval_pipeline: [idx=763] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:33:44 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:45 [INFO] vuln_triage.eval_pipeline: [idx=491] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:33:45 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:46 [INFO] vuln_triage.eval_pipeline: [idx=779] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:33:46 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:47 [INFO] vuln_triage.eval_pipeline: [idx=554] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:33:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:48 [INFO] vuln_triage.eval_pipeline: [idx=98] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:33:48 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:48 [INFO] vuln_triage.eval_pipeline: [idx=204] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:33:48 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:50 [INFO] vuln_triage.eval_pipeline: [idx=741] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:33:50 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:53 [INFO] vuln_triage.eval_pipeline: [idx=667] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:33:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:54 [INFO] vuln_triage.eval_pipeline: [idx=337] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:33:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:55 [INFO] vuln_triage.eval_pipeline: [idx=179] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:33:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:55 [INFO] vuln_triage.eval_pipeline: [idx=116] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:33:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:57 [INFO] vuln_triage.eval_pipeline: [idx=657] predicted=true_positive actual=true_positive correct=True (conf=0.75)
+10:33:57 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:33:58 [INFO] vuln_triage.eval_pipeline: [idx=619] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:33:58 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:01 [INFO] vuln_triage.eval_pipeline: [idx=527] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:34:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:02 [INFO] vuln_triage.eval_pipeline: [idx=102] predicted=false_positive actual=false_positive correct=True (conf=0.65)
+10:34:02 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:06 [INFO] vuln_triage.eval_pipeline: [idx=587] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:34:06 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:06 [INFO] vuln_triage.eval_pipeline: [idx=725] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:34:06 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:07 [INFO] vuln_triage.eval_pipeline: [idx=359] predicted=false_positive actual=false_positive correct=True (conf=0.90)
+10:34:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:08 [INFO] vuln_triage.eval_pipeline: [idx=195] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:34:08 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:08 [INFO] vuln_triage.eval_pipeline: [idx=113] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:34:08 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:14 [INFO] vuln_triage.eval_pipeline: [idx=773] predicted=true_positive actual=true_positive correct=True (conf=0.85)
+10:34:14 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:15 [INFO] vuln_triage.eval_pipeline: [idx=136] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:34:15 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:16 [INFO] vuln_triage.eval_pipeline: [idx=404] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:34:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:16 [INFO] vuln_triage.eval_pipeline: [idx=376] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:34:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:19 [INFO] vuln_triage.eval_pipeline: [idx=342] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:34:19 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:20 [INFO] vuln_triage.eval_pipeline: [idx=210] predicted=true_positive actual=false_positive correct=False (conf=0.99)
+10:34:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:20 [INFO] vuln_triage.eval_pipeline: [idx=437] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:34:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:21 [INFO] vuln_triage.eval_pipeline: [idx=377] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:34:21 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:24 [INFO] vuln_triage.eval_pipeline: [idx=91] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:34:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:27 [INFO] vuln_triage.eval_pipeline: [idx=12] predicted=false_positive actual=false_positive correct=True (conf=0.90)
+10:34:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:27 [INFO] vuln_triage.eval_pipeline: [idx=90] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:34:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:27 [INFO] vuln_triage.eval_pipeline: [idx=522] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:34:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:28 [INFO] vuln_triage.eval_pipeline: [idx=211] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:34:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:33 [INFO] vuln_triage.eval_pipeline: [idx=383] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:34:33 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:33 [INFO] vuln_triage.eval_pipeline: [idx=461] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:34:33 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:33 [INFO] vuln_triage.eval_pipeline: [idx=208] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:34:33 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:34 [INFO] vuln_triage.eval_pipeline: [idx=121] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:34:34 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:36 [INFO] vuln_triage.eval_pipeline: [idx=317] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:34:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:39 [INFO] vuln_triage.eval_pipeline: [idx=286] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:34:39 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:39 [INFO] vuln_triage.eval_pipeline: [idx=844] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:34:39 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:41 [INFO] vuln_triage.eval_pipeline: [idx=181] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:34:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:44 [INFO] vuln_triage.eval_pipeline: [idx=789] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:34:44 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:45 [INFO] vuln_triage.eval_pipeline: [idx=52] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:34:45 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:45 [INFO] vuln_triage.eval_pipeline: [idx=509] predicted=false_positive actual=true_positive correct=False (conf=0.82)
+10:34:45 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:47 [INFO] vuln_triage.eval_pipeline: [idx=349] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:34:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:48 [INFO] vuln_triage.eval_pipeline: [idx=457] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:34:48 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:49 [INFO] vuln_triage.eval_pipeline: [idx=183] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:34:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:50 [INFO] vuln_triage.eval_pipeline: [idx=407] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:34:50 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:53 [INFO] vuln_triage.eval_pipeline: [idx=186] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:34:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:54 [INFO] vuln_triage.eval_pipeline: [idx=157] predicted=true_positive actual=false_positive correct=False (conf=0.99)
+10:34:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:54 [INFO] vuln_triage.eval_pipeline: [idx=622] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:34:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:54 [INFO] vuln_triage.eval_pipeline: [idx=20] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:34:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:54 [INFO] vuln_triage.eval_pipeline: [idx=624] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:34:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:58 [INFO] vuln_triage.eval_pipeline: [idx=536] predicted=false_positive actual=true_positive correct=False (conf=0.99)
+10:34:58 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:34:59 [INFO] vuln_triage.eval_pipeline: [idx=804] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:34:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:04 [INFO] vuln_triage.eval_pipeline: [idx=298] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:35:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:04 [INFO] vuln_triage.eval_pipeline: [idx=709] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:35:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:05 [INFO] vuln_triage.eval_pipeline: [idx=75] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:35:05 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:08 [INFO] vuln_triage.eval_pipeline: [idx=279] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:35:08 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:11 [INFO] vuln_triage.eval_pipeline: [idx=76] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:35:11 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:12 [INFO] vuln_triage.eval_pipeline: [idx=353] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:35:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:12 [INFO] vuln_triage.eval_pipeline: [idx=739] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:35:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:16 [INFO] vuln_triage.eval_pipeline: [idx=38] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:35:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:16 [INFO] vuln_triage.eval_pipeline: [idx=18] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:35:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:17 [INFO] vuln_triage.eval_pipeline: [idx=476] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:35:17 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:17 [INFO] vuln_triage.eval_pipeline: [idx=557] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:35:17 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:20 [INFO] vuln_triage.eval_pipeline: [idx=287] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:35:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:21 [INFO] vuln_triage.eval_pipeline: [idx=361] predicted=true_positive actual=false_positive correct=False (conf=0.99)
+10:35:21 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:22 [INFO] vuln_triage.eval_pipeline: [idx=282] predicted=false_positive actual=false_positive correct=True (conf=0.90)
+10:35:22 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:24 [INFO] vuln_triage.eval_pipeline: [idx=764] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:35:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:24 [INFO] vuln_triage.eval_pipeline: [idx=226] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:35:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:26 [INFO] vuln_triage.eval_pipeline: [idx=513] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:35:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:29 [INFO] vuln_triage.eval_pipeline: [idx=531] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:35:29 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:29 [INFO] vuln_triage.eval_pipeline: [idx=697] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:35:29 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:31 [INFO] vuln_triage.eval_pipeline: [idx=326] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:35:31 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:33 [INFO] vuln_triage.eval_pipeline: [idx=561] predicted=true_positive actual=true_positive correct=True (conf=0.85)
+10:35:33 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:35 [INFO] vuln_triage.eval_pipeline: [idx=66] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:35:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:37 [INFO] vuln_triage.eval_pipeline: [idx=710] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:35:37 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:38 [INFO] vuln_triage.eval_pipeline: [idx=424] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:35:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:39 [INFO] vuln_triage.eval_pipeline: [idx=22] predicted=true_positive actual=false_positive correct=False (conf=0.98)
+10:35:39 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:39 [INFO] vuln_triage.eval_pipeline: [idx=636] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:35:39 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:40 [INFO] vuln_triage.eval_pipeline: [idx=452] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:35:40 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:43 [INFO] vuln_triage.eval_pipeline: [idx=547] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:35:43 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:44 [INFO] vuln_triage.eval_pipeline: [idx=26] predicted=true_positive actual=false_positive correct=False (conf=0.99)
+10:35:44 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:47 [INFO] vuln_triage.eval_pipeline: [idx=47] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:35:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:47 [INFO] vuln_triage.eval_pipeline: [idx=645] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:35:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:47 [INFO] vuln_triage.eval_pipeline: [idx=1] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:35:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:49 [INFO] vuln_triage.eval_pipeline: [idx=750] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:35:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:52 [INFO] vuln_triage.eval_pipeline: [idx=436] predicted=false_positive actual=true_positive correct=False (conf=0.92)
+10:35:52 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:52 [INFO] vuln_triage.eval_pipeline: [idx=324] predicted=false_positive actual=false_positive correct=True (conf=0.99)
+10:35:52 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:55 [INFO] vuln_triage.eval_pipeline: [idx=467] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:35:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:55 [INFO] vuln_triage.eval_pipeline: [idx=351] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:35:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:57 [INFO] vuln_triage.eval_pipeline: [idx=753] predicted=false_positive actual=true_positive correct=False (conf=0.99)
+10:35:57 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:58 [INFO] vuln_triage.eval_pipeline: [idx=801] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:35:58 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:58 [INFO] vuln_triage.eval_pipeline: [idx=258] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:35:58 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:35:59 [INFO] vuln_triage.eval_pipeline: [idx=797] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:35:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:01 [INFO] vuln_triage.eval_pipeline: [idx=107] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:36:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:03 [INFO] vuln_triage.eval_pipeline: [idx=309] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:36:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:05 [INFO] vuln_triage.eval_pipeline: [idx=572] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:36:05 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:06 [INFO] vuln_triage.eval_pipeline: [idx=139] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:36:06 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:07 [INFO] vuln_triage.eval_pipeline: [idx=144] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:36:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:07 [INFO] vuln_triage.eval_pipeline: [idx=79] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:36:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:11 [INFO] vuln_triage.eval_pipeline: [idx=693] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:36:11 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:11 [INFO] vuln_triage.eval_pipeline: [idx=380] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:36:11 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:12 [INFO] vuln_triage.eval_pipeline: [idx=54] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:36:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:13 [INFO] vuln_triage.eval_pipeline: [idx=496] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:36:13 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:15 [INFO] vuln_triage.eval_pipeline: [idx=455] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:36:15 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:17 [INFO] vuln_triage.eval_pipeline: [idx=449] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:36:17 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:19 [INFO] vuln_triage.eval_pipeline: [idx=53] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:36:19 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:20 [INFO] vuln_triage.eval_pipeline: [idx=339] predicted=false_positive actual=false_positive correct=True (conf=0.90)
+10:36:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:21 [INFO] vuln_triage.eval_pipeline: [idx=68] predicted=false_positive actual=false_positive correct=True (conf=0.65)
+10:36:21 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:23 [INFO] vuln_triage.eval_pipeline: [idx=153] predicted=true_positive actual=false_positive correct=False (conf=0.99)
+10:36:23 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:25 [INFO] vuln_triage.eval_pipeline: [idx=418] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:36:25 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:26 [INFO] vuln_triage.eval_pipeline: [idx=341] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:36:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:26 [INFO] vuln_triage.eval_pipeline: [idx=708] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:36:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:27 [INFO] vuln_triage.eval_pipeline: [idx=794] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:36:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:28 [INFO] vuln_triage.eval_pipeline: [idx=283] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:36:29 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:32 [INFO] vuln_triage.eval_pipeline: [idx=608] predicted=false_positive actual=true_positive correct=False (conf=0.90)
+10:36:32 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:34 [INFO] vuln_triage.eval_pipeline: [idx=334] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:36:34 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:35 [INFO] vuln_triage.eval_pipeline: [idx=360] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:36:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:37 [INFO] vuln_triage.eval_pipeline: [idx=154] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:36:37 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:37 [INFO] vuln_triage.eval_pipeline: [idx=278] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:36:37 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:40 [INFO] vuln_triage.eval_pipeline: [idx=426] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:36:40 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:40 [INFO] vuln_triage.eval_pipeline: [idx=711] predicted=true_positive actual=true_positive correct=True (conf=0.97)
+10:36:40 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:41 [INFO] vuln_triage.eval_pipeline: [idx=839] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:36:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:43 [INFO] vuln_triage.eval_pipeline: [idx=145] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:36:43 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:45 [INFO] vuln_triage.eval_pipeline: [idx=450] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:36:45 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:47 [INFO] vuln_triage.eval_pipeline: [idx=313] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:36:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:49 [INFO] vuln_triage.eval_pipeline: [idx=35] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:36:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:51 [INFO] vuln_triage.eval_pipeline: [idx=451] predicted=false_positive actual=true_positive correct=False (conf=0.97)
+10:36:51 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:52 [INFO] vuln_triage.eval_pipeline: [idx=125] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:36:52 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:54 [INFO] vuln_triage.eval_pipeline: [idx=189] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:36:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:55 [INFO] vuln_triage.eval_pipeline: [idx=477] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:36:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:56 [INFO] vuln_triage.eval_pipeline: [idx=821] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:36:56 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:59 [INFO] vuln_triage.eval_pipeline: [idx=795] predicted=true_positive actual=true_positive correct=True (conf=0.97)
+10:36:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:36:59 [INFO] vuln_triage.eval_pipeline: [idx=178] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:36:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:01 [INFO] vuln_triage.eval_pipeline: [idx=259] predicted=true_positive actual=false_positive correct=False (conf=0.99)
+10:37:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:02 [INFO] vuln_triage.eval_pipeline: [idx=275] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:37:02 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:04 [INFO] vuln_triage.eval_pipeline: [idx=537] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:37:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:05 [INFO] vuln_triage.eval_pipeline: [idx=506] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:37:05 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:06 [INFO] vuln_triage.eval_pipeline: [idx=109] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:37:06 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:11 [INFO] vuln_triage.eval_pipeline: [idx=661] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:37:11 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:11 [INFO] vuln_triage.eval_pipeline: [idx=288] predicted=false_positive actual=false_positive correct=True (conf=0.55)
+10:37:11 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:13 [INFO] vuln_triage.eval_pipeline: [idx=318] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:37:13 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:14 [INFO] vuln_triage.eval_pipeline: [idx=4] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:37:14 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:16 [INFO] vuln_triage.eval_pipeline: [idx=384] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:37:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:16 [INFO] vuln_triage.eval_pipeline: [idx=37] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:37:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:17 [INFO] vuln_triage.eval_pipeline: [idx=694] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:37:17 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:18 [INFO] vuln_triage.eval_pipeline: [idx=475] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:37:18 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:20 [INFO] vuln_triage.eval_pipeline: [idx=534] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:37:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:20 [INFO] vuln_triage.eval_pipeline: [idx=468] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:37:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:22 [INFO] vuln_triage.eval_pipeline: [idx=726] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:37:22 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:23 [INFO] vuln_triage.eval_pipeline: [idx=307] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:37:23 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:24 [INFO] vuln_triage.eval_pipeline: [idx=550] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:37:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:27 [INFO] vuln_triage.eval_pipeline: [idx=539] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:37:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:28 [INFO] vuln_triage.eval_pipeline: [idx=244] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:37:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:30 [INFO] vuln_triage.eval_pipeline: [idx=267] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:37:30 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:32 [INFO] vuln_triage.eval_pipeline: [idx=209] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:37:32 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:34 [INFO] vuln_triage.eval_pipeline: [idx=736] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:37:34 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:35 [INFO] vuln_triage.eval_pipeline: [idx=134] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:37:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:35 [INFO] vuln_triage.eval_pipeline: [idx=817] predicted=true_positive actual=true_positive correct=True (conf=0.85)
+10:37:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:38 [INFO] vuln_triage.eval_pipeline: [idx=40] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:37:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:40 [INFO] vuln_triage.eval_pipeline: [idx=720] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:37:40 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:40 [INFO] vuln_triage.eval_pipeline: [idx=413] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:37:40 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:44 [INFO] vuln_triage.eval_pipeline: [idx=122] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:37:44 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:46 [INFO] vuln_triage.eval_pipeline: [idx=647] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:37:46 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:46 [INFO] vuln_triage.eval_pipeline: [idx=612] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:37:46 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:48 [INFO] vuln_triage.eval_pipeline: [idx=83] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:37:48 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:49 [INFO] vuln_triage.eval_pipeline: [idx=240] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:37:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:51 [INFO] vuln_triage.eval_pipeline: [idx=190] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:37:51 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:51 [INFO] vuln_triage.eval_pipeline: [idx=82] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:37:51 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:52 [INFO] vuln_triage.eval_pipeline: [idx=520] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:37:52 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:54 [INFO] vuln_triage.eval_pipeline: [idx=681] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:37:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:55 [INFO] vuln_triage.eval_pipeline: [idx=538] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:37:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:57 [INFO] vuln_triage.eval_pipeline: [idx=691] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:37:57 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:37:57 [INFO] vuln_triage.eval_pipeline: [idx=488] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:37:57 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:01 [INFO] vuln_triage.eval_pipeline: [idx=514] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:38:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:01 [INFO] vuln_triage.eval_pipeline: [idx=321] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:38:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:04 [INFO] vuln_triage.eval_pipeline: [idx=585] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:38:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:04 [INFO] vuln_triage.eval_pipeline: [idx=653] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:38:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:06 [INFO] vuln_triage.eval_pipeline: [idx=58] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:38:06 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:10 [INFO] vuln_triage.eval_pipeline: [idx=303] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:38:10 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:12 [INFO] vuln_triage.eval_pipeline: [idx=498] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:38:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:12 [INFO] vuln_triage.eval_pipeline: [idx=222] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:38:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:13 [INFO] vuln_triage.eval_pipeline: [idx=158] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:38:13 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:16 [INFO] vuln_triage.eval_pipeline: [idx=579] predicted=true_positive actual=true_positive correct=True (conf=0.97)
+10:38:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:16 [INFO] vuln_triage.eval_pipeline: [idx=600] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:38:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:17 [INFO] vuln_triage.eval_pipeline: [idx=465] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:38:17 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:18 [INFO] vuln_triage.eval_pipeline: [idx=673] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:38:18 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:22 [INFO] vuln_triage.eval_pipeline: [idx=399] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:38:22 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:24 [INFO] vuln_triage.eval_pipeline: [idx=2] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:38:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:24 [INFO] vuln_triage.eval_pipeline: [idx=168] predicted=true_positive actual=false_positive correct=False (conf=0.98)
+10:38:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:25 [INFO] vuln_triage.eval_pipeline: [idx=792] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:38:25 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:26 [INFO] vuln_triage.eval_pipeline: [idx=292] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:38:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:26 [INFO] vuln_triage.eval_pipeline: [idx=614] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:38:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:29 [INFO] vuln_triage.eval_pipeline: [idx=735] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:38:29 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:30 [INFO] vuln_triage.eval_pipeline: [idx=596] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:38:30 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:31 [INFO] vuln_triage.eval_pipeline: [idx=492] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:38:31 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:32 [INFO] vuln_triage.eval_pipeline: [idx=605] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:38:32 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:36 [INFO] vuln_triage.eval_pipeline: [idx=218] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:38:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:36 [INFO] vuln_triage.eval_pipeline: [idx=242] predicted=false_positive actual=false_positive correct=True (conf=0.99)
+10:38:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:37 [INFO] vuln_triage.eval_pipeline: [idx=829] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:38:37 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:37 [INFO] vuln_triage.eval_pipeline: [idx=15] predicted=false_positive actual=false_positive correct=True (conf=0.99)
+10:38:37 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:39 [INFO] vuln_triage.eval_pipeline: [idx=170] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:38:39 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:40 [INFO] vuln_triage.eval_pipeline: [idx=553] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:38:40 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:41 [INFO] vuln_triage.eval_pipeline: [idx=586] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:38:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:41 [INFO] vuln_triage.eval_pipeline: [idx=563] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:38:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:45 [INFO] vuln_triage.eval_pipeline: [idx=453] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:38:45 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:45 [INFO] vuln_triage.eval_pipeline: [idx=51] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:38:45 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:46 [INFO] vuln_triage.eval_pipeline: [idx=748] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:38:46 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:46 [INFO] vuln_triage.eval_pipeline: [idx=255] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:38:46 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:51 [INFO] vuln_triage.eval_pipeline: [idx=187] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:38:51 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:52 [INFO] vuln_triage.eval_pipeline: [idx=606] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:38:52 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:52 [INFO] vuln_triage.eval_pipeline: [idx=700] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:38:52 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:54 [INFO] vuln_triage.eval_pipeline: [idx=77] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:38:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:56 [INFO] vuln_triage.eval_pipeline: [idx=815] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:38:56 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:57 [INFO] vuln_triage.eval_pipeline: [idx=688] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:38:57 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:57 [INFO] vuln_triage.eval_pipeline: [idx=143] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:38:57 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:58 [INFO] vuln_triage.eval_pipeline: [idx=595] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:38:58 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:38:59 [INFO] vuln_triage.eval_pipeline: [idx=780] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:38:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:04 [INFO] vuln_triage.eval_pipeline: [idx=347] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:39:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:05 [INFO] vuln_triage.eval_pipeline: [idx=62] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:39:05 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:06 [INFO] vuln_triage.eval_pipeline: [idx=254] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:39:06 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:08 [INFO] vuln_triage.eval_pipeline: [idx=111] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:39:08 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:09 [INFO] vuln_triage.eval_pipeline: [idx=412] predicted=true_positive actual=false_positive correct=False (conf=0.98)
+10:39:09 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:09 [INFO] vuln_triage.eval_pipeline: [idx=100] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:39:09 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:12 [INFO] vuln_triage.eval_pipeline: [idx=478] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:39:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:13 [INFO] vuln_triage.eval_pipeline: [idx=55] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:39:13 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:14 [INFO] vuln_triage.eval_pipeline: [idx=420] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:39:14 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:14 [INFO] vuln_triage.eval_pipeline: [idx=637] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:39:14 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:18 [INFO] vuln_triage.eval_pipeline: [idx=362] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:39:18 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:18 [INFO] vuln_triage.eval_pipeline: [idx=798] predicted=false_positive actual=true_positive correct=False (conf=0.99)
+10:39:18 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:19 [INFO] vuln_triage.eval_pipeline: [idx=441] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:39:19 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:20 [INFO] vuln_triage.eval_pipeline: [idx=96] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:39:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:24 [INFO] vuln_triage.eval_pipeline: [idx=599] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:39:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:25 [INFO] vuln_triage.eval_pipeline: [idx=484] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:39:25 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:26 [INFO] vuln_triage.eval_pipeline: [idx=194] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:39:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:28 [INFO] vuln_triage.eval_pipeline: [idx=590] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:39:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:29 [INFO] vuln_triage.eval_pipeline: [idx=584] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:39:29 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:31 [INFO] vuln_triage.eval_pipeline: [idx=248] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:39:31 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:32 [INFO] vuln_triage.eval_pipeline: [idx=635] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:39:32 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:35 [INFO] vuln_triage.eval_pipeline: [idx=416] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:39:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:36 [INFO] vuln_triage.eval_pipeline: [idx=219] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:39:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:36 [INFO] vuln_triage.eval_pipeline: [idx=135] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:39:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:38 [INFO] vuln_triage.eval_pipeline: [idx=648] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:39:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:41 [INFO] vuln_triage.eval_pipeline: [idx=526] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:39:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:41 [INFO] vuln_triage.eval_pipeline: [idx=243] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:39:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:41 [INFO] vuln_triage.eval_pipeline: [idx=285] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:39:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:42 [INFO] vuln_triage.eval_pipeline: [idx=615] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:39:42 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:46 [INFO] vuln_triage.eval_pipeline: [idx=69] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:39:46 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:47 [INFO] vuln_triage.eval_pipeline: [idx=737] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:39:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:47 [INFO] vuln_triage.eval_pipeline: [idx=738] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:39:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:48 [INFO] vuln_triage.eval_pipeline: [idx=338] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:39:48 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:49 [INFO] vuln_triage.eval_pipeline: [idx=60] predicted=true_positive actual=false_positive correct=False (conf=0.99)
+10:39:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:53 [INFO] vuln_triage.eval_pipeline: [idx=72] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:39:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:53 [INFO] vuln_triage.eval_pipeline: [idx=7] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:39:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:54 [INFO] vuln_triage.eval_pipeline: [idx=816] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:39:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:55 [INFO] vuln_triage.eval_pipeline: [idx=638] predicted=false_positive actual=true_positive correct=False (conf=0.90)
+10:39:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:57 [INFO] vuln_triage.eval_pipeline: [idx=235] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:39:57 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:58 [INFO] vuln_triage.eval_pipeline: [idx=602] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:39:58 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:39:58 [INFO] vuln_triage.eval_pipeline: [idx=567] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:39:58 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:01 [INFO] vuln_triage.eval_pipeline: [idx=698] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:40:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:01 [INFO] vuln_triage.eval_pipeline: [idx=21] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:40:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:03 [INFO] vuln_triage.eval_pipeline: [idx=346] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:40:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:03 [INFO] vuln_triage.eval_pipeline: [idx=230] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:40:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:07 [INFO] vuln_triage.eval_pipeline: [idx=529] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:40:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:07 [INFO] vuln_triage.eval_pipeline: [idx=123] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:40:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:07 [INFO] vuln_triage.eval_pipeline: [idx=462] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:40:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:07 [INFO] vuln_triage.eval_pipeline: [idx=448] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:40:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:08 [INFO] vuln_triage.eval_pipeline: [idx=253] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:40:08 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:12 [INFO] vuln_triage.eval_pipeline: [idx=713] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:40:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:12 [INFO] vuln_triage.eval_pipeline: [idx=664] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:40:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:12 [INFO] vuln_triage.eval_pipeline: [idx=666] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:40:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:13 [INFO] vuln_triage.eval_pipeline: [idx=205] predicted=true_positive actual=false_positive correct=False (conf=0.98)
+10:40:13 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:16 [INFO] vuln_triage.eval_pipeline: [idx=319] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:40:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:17 [INFO] vuln_triage.eval_pipeline: [idx=540] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:40:17 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:17 [INFO] vuln_triage.eval_pipeline: [idx=732] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:40:17 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:18 [INFO] vuln_triage.eval_pipeline: [idx=433] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:40:18 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:20 [INFO] vuln_triage.eval_pipeline: [idx=621] predicted=false_positive actual=true_positive correct=False (conf=0.75)
+10:40:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:22 [INFO] vuln_triage.eval_pipeline: [idx=722] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:40:22 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:23 [INFO] vuln_triage.eval_pipeline: [idx=169] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:40:23 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:23 [INFO] vuln_triage.eval_pipeline: [idx=562] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:40:23 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:24 [INFO] vuln_triage.eval_pipeline: [idx=486] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:40:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:27 [INFO] vuln_triage.eval_pipeline: [idx=131] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:40:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:28 [INFO] vuln_triage.eval_pipeline: [idx=70] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:40:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:28 [INFO] vuln_triage.eval_pipeline: [idx=128] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:40:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:29 [INFO] vuln_triage.eval_pipeline: [idx=497] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:40:29 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:29 [INFO] vuln_triage.eval_pipeline: [idx=545] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:40:29 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:33 [INFO] vuln_triage.eval_pipeline: [idx=731] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:40:33 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:35 [INFO] vuln_triage.eval_pipeline: [idx=246] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:40:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:36 [INFO] vuln_triage.eval_pipeline: [idx=787] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:40:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:38 [INFO] vuln_triage.eval_pipeline: [idx=59] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:40:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:41 [INFO] vuln_triage.eval_pipeline: [idx=245] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:40:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:41 [INFO] vuln_triage.eval_pipeline: [idx=371] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:40:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:42 [INFO] vuln_triage.eval_pipeline: [idx=314] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:40:42 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:45 [INFO] vuln_triage.eval_pipeline: [idx=684] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:40:45 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:49 [INFO] vuln_triage.eval_pipeline: [idx=500] predicted=true_positive actual=true_positive correct=True (conf=0.75)
+10:40:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:49 [INFO] vuln_triage.eval_pipeline: [idx=331] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:40:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:52 [INFO] vuln_triage.eval_pipeline: [idx=613] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:40:52 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:53 [INFO] vuln_triage.eval_pipeline: [idx=543] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:40:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:53 [INFO] vuln_triage.eval_pipeline: [idx=87] predicted=false_positive actual=false_positive correct=True (conf=0.62)
+10:40:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:54 [ERROR] vuln_triage.llm.client: Failed to extract JSON from LLM response: I need to analyze two routes in this Flask application for security vulnerabilities.
+
+## Route 1: `/` (index)
+
+```python
+user = request.args.get('user', 'guest')
+return render_template_string('Hello, 
+10:40:54 [INFO] vuln_triage.eval_pipeline: [idx=19] predicted=uncertain actual=false_positive correct=False (conf=0.00)
+10:40:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:40:57 [INFO] vuln_triage.eval_pipeline: [idx=552] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:40:57 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:01 [INFO] vuln_triage.eval_pipeline: [idx=382] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:41:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:02 [INFO] vuln_triage.eval_pipeline: [idx=165] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:41:02 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:02 [INFO] vuln_triage.eval_pipeline: [idx=744] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:41:02 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:02 [INFO] vuln_triage.eval_pipeline: [idx=822] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:41:02 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:07 [INFO] vuln_triage.eval_pipeline: [idx=755] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:41:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:07 [INFO] vuln_triage.eval_pipeline: [idx=675] predicted=false_positive actual=true_positive correct=False (conf=0.98)
+10:41:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:08 [INFO] vuln_triage.eval_pipeline: [idx=847] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:41:08 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:11 [INFO] vuln_triage.eval_pipeline: [idx=640] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:41:11 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:12 [INFO] vuln_triage.eval_pipeline: [idx=305] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:41:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:13 [INFO] vuln_triage.eval_pipeline: [idx=519] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:41:13 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:15 [INFO] vuln_triage.eval_pipeline: [idx=0] predicted=false_positive actual=false_positive correct=True (conf=0.60)
+10:41:15 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:19 [INFO] vuln_triage.eval_pipeline: [idx=512] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:41:19 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:19 [INFO] vuln_triage.eval_pipeline: [idx=182] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:41:19 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:19 [INFO] vuln_triage.eval_pipeline: [idx=717] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:41:19 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:23 [INFO] vuln_triage.eval_pipeline: [idx=3] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:41:23 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:25 [INFO] vuln_triage.eval_pipeline: [idx=445] predicted=false_positive actual=true_positive correct=False (conf=0.90)
+10:41:25 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:26 [INFO] vuln_triage.eval_pipeline: [idx=768] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:41:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:26 [INFO] vuln_triage.eval_pipeline: [idx=108] predicted=true_positive actual=false_positive correct=False (conf=0.88)
+10:41:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:26 [INFO] vuln_triage.eval_pipeline: [idx=161] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:41:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:28 [INFO] vuln_triage.eval_pipeline: [idx=785] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:41:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:30 [INFO] vuln_triage.eval_pipeline: [idx=807] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:41:30 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:31 [INFO] vuln_triage.eval_pipeline: [idx=656] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:41:31 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:31 [INFO] vuln_triage.eval_pipeline: [idx=846] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:41:31 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:33 [INFO] vuln_triage.eval_pipeline: [idx=790] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:41:33 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:33 [INFO] vuln_triage.eval_pipeline: [idx=760] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:41:33 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:36 [INFO] vuln_triage.eval_pipeline: [idx=566] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:41:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:36 [INFO] vuln_triage.eval_pipeline: [idx=541] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:41:36 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:42 [INFO] vuln_triage.eval_pipeline: [idx=479] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:41:42 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:42 [INFO] vuln_triage.eval_pipeline: [idx=117] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:41:42 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:43 [INFO] vuln_triage.eval_pipeline: [idx=836] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:41:43 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:44 [INFO] vuln_triage.eval_pipeline: [idx=11] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:41:44 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:50 [INFO] vuln_triage.eval_pipeline: [idx=610] predicted=false_positive actual=true_positive correct=False (conf=0.92)
+10:41:50 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:52 [INFO] vuln_triage.eval_pipeline: [idx=65] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:41:52 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:52 [INFO] vuln_triage.eval_pipeline: [idx=390] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:41:52 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:53 [INFO] vuln_triage.eval_pipeline: [idx=257] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:41:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:53 [INFO] vuln_triage.eval_pipeline: [idx=394] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:41:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:55 [INFO] vuln_triage.eval_pipeline: [idx=808] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:41:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:57 [INFO] vuln_triage.eval_pipeline: [idx=696] predicted=false_positive actual=true_positive correct=False (conf=0.97)
+10:41:57 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:59 [INFO] vuln_triage.eval_pipeline: [idx=642] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:41:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:41:59 [INFO] vuln_triage.eval_pipeline: [idx=112] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:41:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:02 [INFO] vuln_triage.eval_pipeline: [idx=810] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:42:02 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:04 [INFO] vuln_triage.eval_pipeline: [idx=156] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:42:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:05 [INFO] vuln_triage.eval_pipeline: [idx=505] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:42:05 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:05 [INFO] vuln_triage.eval_pipeline: [idx=48] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:42:05 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:08 [INFO] vuln_triage.eval_pipeline: [idx=742] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:42:08 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:09 [INFO] vuln_triage.eval_pipeline: [idx=521] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:42:09 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:09 [INFO] vuln_triage.eval_pipeline: [idx=93] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:42:09 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:13 [INFO] vuln_triage.eval_pipeline: [idx=597] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:42:13 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:13 [INFO] vuln_triage.eval_pipeline: [idx=782] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:42:13 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:14 [INFO] vuln_triage.eval_pipeline: [idx=141] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:42:14 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:14 [INFO] vuln_triage.eval_pipeline: [idx=438] predicted=false_positive actual=true_positive correct=False (conf=0.98)
+10:42:14 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:15 [INFO] vuln_triage.eval_pipeline: [idx=408] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:42:15 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:18 [INFO] vuln_triage.eval_pipeline: [idx=598] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:42:18 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:18 [INFO] vuln_triage.eval_pipeline: [idx=551] predicted=false_positive actual=true_positive correct=False (conf=0.98)
+10:42:18 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:19 [INFO] vuln_triage.eval_pipeline: [idx=823] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:42:19 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:22 [INFO] vuln_triage.eval_pipeline: [idx=840] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:42:22 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:25 [INFO] vuln_triage.eval_pipeline: [idx=252] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:42:25 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:28 [INFO] vuln_triage.eval_pipeline: [idx=269] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:42:28 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:29 [INFO] vuln_triage.eval_pipeline: [idx=658] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:42:29 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:29 [INFO] vuln_triage.eval_pipeline: [idx=469] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:42:29 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:31 [INFO] vuln_triage.eval_pipeline: [idx=271] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:42:31 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:31 [INFO] vuln_triage.eval_pipeline: [idx=146] predicted=true_positive actual=false_positive correct=False (conf=0.98)
+10:42:31 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:33 [INFO] vuln_triage.eval_pipeline: [idx=511] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:42:33 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:35 [INFO] vuln_triage.eval_pipeline: [idx=671] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:42:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:37 [INFO] vuln_triage.eval_pipeline: [idx=405] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:42:37 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:38 [INFO] vuln_triage.eval_pipeline: [idx=580] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:42:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:38 [INFO] vuln_triage.eval_pipeline: [idx=217] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:42:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:40 [INFO] vuln_triage.eval_pipeline: [idx=322] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:42:40 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:43 [INFO] vuln_triage.eval_pipeline: [idx=216] predicted=false_positive actual=false_positive correct=True (conf=0.90)
+10:42:43 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:44 [INFO] vuln_triage.eval_pipeline: [idx=323] predicted=false_positive actual=false_positive correct=True (conf=0.99)
+10:42:44 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:44 [INFO] vuln_triage.eval_pipeline: [idx=67] predicted=false_positive actual=false_positive correct=True (conf=0.88)
+10:42:44 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:45 [INFO] vuln_triage.eval_pipeline: [idx=274] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:42:45 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:47 [INFO] vuln_triage.eval_pipeline: [idx=410] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:42:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:50 [INFO] vuln_triage.eval_pipeline: [idx=831] predicted=true_positive actual=true_positive correct=True (conf=0.97)
+10:42:50 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:53 [INFO] vuln_triage.eval_pipeline: [idx=57] predicted=false_positive actual=false_positive correct=True (conf=0.82)
+10:42:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:54 [INFO] vuln_triage.eval_pipeline: [idx=701] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:42:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:55 [INFO] vuln_triage.eval_pipeline: [idx=234] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:42:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:57 [INFO] vuln_triage.eval_pipeline: [idx=332] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:42:57 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:58 [INFO] vuln_triage.eval_pipeline: [idx=224] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:42:58 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:42:59 [INFO] vuln_triage.eval_pipeline: [idx=704] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:42:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:00 [INFO] vuln_triage.eval_pipeline: [idx=655] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:43:00 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:03 [INFO] vuln_triage.eval_pipeline: [idx=570] predicted=true_positive actual=true_positive correct=True (conf=0.97)
+10:43:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:03 [INFO] vuln_triage.eval_pipeline: [idx=276] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:43:03 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:06 [INFO] vuln_triage.eval_pipeline: [idx=388] predicted=true_positive actual=false_positive correct=False (conf=0.72)
+10:43:06 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:07 [INFO] vuln_triage.eval_pipeline: [idx=473] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:43:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:08 [INFO] vuln_triage.eval_pipeline: [idx=167] predicted=true_positive actual=false_positive correct=False (conf=0.98)
+10:43:08 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:10 [INFO] vuln_triage.eval_pipeline: [idx=842] predicted=false_positive actual=true_positive correct=False (conf=0.92)
+10:43:10 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:13 [INFO] vuln_triage.eval_pipeline: [idx=746] predicted=false_positive actual=true_positive correct=False (conf=0.60)
+10:43:13 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:13 [INFO] vuln_triage.eval_pipeline: [idx=767] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:43:13 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:15 [INFO] vuln_triage.eval_pipeline: [idx=175] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:43:15 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:15 [INFO] vuln_triage.eval_pipeline: [idx=546] predicted=false_positive actual=true_positive correct=False (conf=0.82)
+10:43:15 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:15 [INFO] vuln_triage.eval_pipeline: [idx=623] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:43:15 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:19 [INFO] vuln_triage.eval_pipeline: [idx=819] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:43:19 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:20 [INFO] vuln_triage.eval_pipeline: [idx=663] predicted=true_positive actual=true_positive correct=True (conf=0.72)
+10:43:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:20 [INFO] vuln_triage.eval_pipeline: [idx=73] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:43:20 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:21 [INFO] vuln_triage.eval_pipeline: [idx=699] predicted=true_positive actual=true_positive correct=True (conf=0.92)
+10:43:21 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:24 [INFO] vuln_triage.eval_pipeline: [idx=686] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:43:24 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:26 [INFO] vuln_triage.eval_pipeline: [idx=273] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:43:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:26 [INFO] vuln_triage.eval_pipeline: [idx=214] predicted=false_positive actual=false_positive correct=True (conf=0.97)
+10:43:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:29 [INFO] vuln_triage.eval_pipeline: [idx=363] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:43:29 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:31 [INFO] vuln_triage.eval_pipeline: [idx=379] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:43:31 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:32 [INFO] vuln_triage.eval_pipeline: [idx=373] predicted=true_positive actual=false_positive correct=False (conf=0.98)
+10:43:32 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:35 [INFO] vuln_triage.eval_pipeline: [idx=650] predicted=true_positive actual=true_positive correct=True (conf=0.85)
+10:43:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:35 [INFO] vuln_triage.eval_pipeline: [idx=166] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:43:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:37 [INFO] vuln_triage.eval_pipeline: [idx=799] predicted=false_positive actual=true_positive correct=False (conf=0.97)
+10:43:37 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:38 [INFO] vuln_triage.eval_pipeline: [idx=464] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:43:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:38 [INFO] vuln_triage.eval_pipeline: [idx=806] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:43:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:41 [INFO] vuln_triage.eval_pipeline: [idx=827] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:43:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:42 [INFO] vuln_triage.eval_pipeline: [idx=81] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:43:42 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:43 [INFO] vuln_triage.eval_pipeline: [idx=296] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:43:43 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:45 [INFO] vuln_triage.eval_pipeline: [idx=233] predicted=false_positive actual=false_positive correct=True (conf=0.90)
+10:43:45 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:46 [INFO] vuln_triage.eval_pipeline: [idx=677] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:43:46 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:46 [INFO] vuln_triage.eval_pipeline: [idx=103] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:43:46 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:47 [INFO] vuln_triage.eval_pipeline: [idx=46] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:43:47 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:49 [INFO] vuln_triage.eval_pipeline: [idx=71] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:43:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:50 [INFO] vuln_triage.eval_pipeline: [idx=721] predicted=true_positive actual=true_positive correct=True (conf=1.00)
+10:43:50 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:53 [INFO] vuln_triage.eval_pipeline: [idx=591] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:43:53 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:54 [INFO] vuln_triage.eval_pipeline: [idx=633] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:43:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:55 [INFO] vuln_triage.eval_pipeline: [idx=196] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:43:55 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:56 [INFO] vuln_triage.eval_pipeline: [idx=643] predicted=true_positive actual=true_positive correct=True (conf=0.98)
+10:43:56 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:59 [INFO] vuln_triage.eval_pipeline: [idx=565] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:43:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:43:59 [INFO] vuln_triage.eval_pipeline: [idx=370] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:43:59 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:01 [INFO] vuln_triage.eval_pipeline: [idx=80] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:44:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:02 [INFO] vuln_triage.eval_pipeline: [idx=300] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:44:02 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:04 [INFO] vuln_triage.eval_pipeline: [idx=549] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:44:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:04 [INFO] vuln_triage.eval_pipeline: [idx=387] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:44:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:04 [INFO] vuln_triage.eval_pipeline: [idx=127] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:44:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:06 [INFO] vuln_triage.eval_pipeline: [idx=470] predicted=false_positive actual=true_positive correct=False (conf=0.99)
+10:44:06 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:06 [INFO] vuln_triage.eval_pipeline: [idx=747] predicted=false_positive actual=true_positive correct=False (conf=0.99)
+10:44:06 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:08 [INFO] vuln_triage.eval_pipeline: [idx=618] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:44:08 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:10 [INFO] vuln_triage.eval_pipeline: [idx=270] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:44:10 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:12 [INFO] vuln_triage.eval_pipeline: [idx=44] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:44:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:14 [INFO] vuln_triage.eval_pipeline: [idx=352] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:44:14 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:14 [INFO] vuln_triage.eval_pipeline: [idx=99] predicted=false_positive actual=false_positive correct=True (conf=0.99)
+10:44:14 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:19 [INFO] vuln_triage.eval_pipeline: [idx=344] predicted=false_positive actual=false_positive correct=True (conf=0.98)
+10:44:19 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:19 [INFO] vuln_triage.eval_pipeline: [idx=389] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:44:19 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:21 [INFO] vuln_triage.eval_pipeline: [idx=367] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:44:21 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:21 [INFO] vuln_triage.eval_pipeline: [idx=94] predicted=false_positive actual=false_positive correct=True (conf=0.75)
+10:44:21 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:21 [INFO] vuln_triage.eval_pipeline: [idx=838] predicted=false_positive actual=true_positive correct=False (conf=0.92)
+10:44:21 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:25 [INFO] vuln_triage.eval_pipeline: [idx=220] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:44:25 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:26 [INFO] vuln_triage.eval_pipeline: [idx=348] predicted=false_positive actual=false_positive correct=True (conf=0.99)
+10:44:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:26 [INFO] vuln_triage.eval_pipeline: [idx=813] predicted=true_positive actual=true_positive correct=True (conf=0.97)
+10:44:26 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:27 [INFO] vuln_triage.eval_pipeline: [idx=781] predicted=true_positive actual=true_positive correct=True (conf=0.82)
+10:44:27 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:29 [INFO] vuln_triage.eval_pipeline: [idx=159] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:44:29 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:31 [INFO] vuln_triage.eval_pipeline: [idx=714] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:44:31 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:33 [INFO] vuln_triage.eval_pipeline: [idx=777] predicted=true_positive actual=true_positive correct=True (conf=0.85)
+10:44:33 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:34 [INFO] vuln_triage.eval_pipeline: [idx=832] predicted=false_positive actual=true_positive correct=False (conf=0.85)
+10:44:34 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:35 [INFO] vuln_triage.eval_pipeline: [idx=6] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:44:35 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:38 [INFO] vuln_triage.eval_pipeline: [idx=163] predicted=true_positive actual=false_positive correct=False (conf=0.85)
+10:44:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:38 [INFO] vuln_triage.eval_pipeline: [idx=603] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:44:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:38 [INFO] vuln_triage.eval_pipeline: [idx=459] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:44:38 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:40 [INFO] vuln_triage.eval_pipeline: [idx=284] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:44:40 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:41 [INFO] vuln_triage.eval_pipeline: [idx=225] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:44:41 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:42 [INFO] vuln_triage.eval_pipeline: [idx=835] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:44:42 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:43 [INFO] vuln_triage.eval_pipeline: [idx=718] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:44:43 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:43 [INFO] vuln_triage.eval_pipeline: [idx=429] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:44:43 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:43 [INFO] vuln_triage.eval_pipeline: [idx=665] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:44:43 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:48 [INFO] vuln_triage.eval_pipeline: [idx=616] predicted=false_positive actual=true_positive correct=False (conf=0.98)
+10:44:48 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:49 [INFO] vuln_triage.eval_pipeline: [idx=574] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:44:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:49 [INFO] vuln_triage.eval_pipeline: [idx=733] predicted=false_positive actual=true_positive correct=False (conf=0.92)
+10:44:49 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:50 [INFO] vuln_triage.eval_pipeline: [idx=27] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:44:50 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:50 [INFO] vuln_triage.eval_pipeline: [idx=203] predicted=false_positive actual=false_positive correct=True (conf=0.85)
+10:44:50 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:54 [INFO] vuln_triage.eval_pipeline: [idx=517] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:44:54 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:56 [INFO] vuln_triage.eval_pipeline: [idx=30] predicted=false_positive actual=false_positive correct=True (conf=0.99)
+10:44:56 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:56 [INFO] vuln_triage.eval_pipeline: [idx=238] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:44:56 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:44:58 [INFO] vuln_triage.eval_pipeline: [idx=95] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:44:58 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:45:00 [INFO] vuln_triage.eval_pipeline: [idx=223] predicted=true_positive actual=false_positive correct=False (conf=0.92)
+10:45:00 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:45:01 [INFO] vuln_triage.eval_pipeline: [idx=32] predicted=true_positive actual=false_positive correct=False (conf=0.98)
+10:45:01 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:45:02 [INFO] vuln_triage.eval_pipeline: [idx=432] predicted=true_positive actual=true_positive correct=True (conf=0.95)
+10:45:02 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:45:04 [INFO] vuln_triage.eval_pipeline: [idx=604] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:45:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:45:04 [INFO] vuln_triage.eval_pipeline: [idx=558] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:45:04 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:45:07 [INFO] vuln_triage.eval_pipeline: [idx=758] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:45:07 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:45:08 [INFO] vuln_triage.eval_pipeline: [idx=692] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:45:08 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:45:09 [INFO] vuln_triage.eval_pipeline: [idx=89] predicted=true_positive actual=false_positive correct=False (conf=0.99)
+10:45:09 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:45:10 [INFO] vuln_triage.eval_pipeline: [idx=754] predicted=false_positive actual=true_positive correct=False (conf=0.95)
+10:45:10 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:45:12 [INFO] vuln_triage.eval_pipeline: [idx=104] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:45:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:45:12 [INFO] vuln_triage.eval_pipeline: [idx=228] predicted=false_positive actual=false_positive correct=True (conf=0.99)
+10:45:12 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:45:14 [INFO] vuln_triage.eval_pipeline: [idx=250] predicted=false_positive actual=false_positive correct=True (conf=0.95)
+10:45:14 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:45:16 [INFO] vuln_triage.eval_pipeline: [idx=142] predicted=true_positive actual=false_positive correct=False (conf=0.97)
+10:45:16 [INFO] LiteLLM: 
+LiteLLM completion() model= anthropic/claude-sonnet-4-6; provider = openrouter
+10:45:18 [INFO] vuln_triage.eval_pipeline: [idx=759] predicted=true_positive actual=true_positive correct=True (conf=0.99)
+10:45:20 [INFO] vuln_triage.eval_pipeline: [idx=25] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:45:21 [INFO] vuln_triage.eval_pipeline: [idx=114] predicted=true_positive actual=false_positive correct=False (conf=0.95)
+10:45:22 [INFO] vuln_triage.eval_pipeline: [idx=281] predicted=false_positive actual=false_positive correct=True (conf=0.92)
+10:45:23 [INFO] vuln_triage.eval_pipeline: [idx=654] predicted=false_positive actual=true_positive correct=False (conf=0.92)
+10:45:23 [INFO] vuln_triage.eval_pipeline: Evaluation report saved to dataset/original.eval_results.json

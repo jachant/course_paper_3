@@ -1,0 +1,27 @@
+codeql:
+  codeql_path: "/Users/zanuda/Documents/HSE/Coursework/codeql/codeql"
+  search_path: ""
+  language: "python"
+  # Timeout for database creation (seconds)
+  db_timeout: 600
+  # Timeout per query (seconds)
+  query_timeout: 300
+
+llm:
+  model: "openrouter/anthropic/claude-sonnet-4-6"
+  temperature: 0.1
+  max_tokens: 2048
+  # Max parallel LLM calls
+  max_concurrent: 5
+
+extraction:
+  # Lines of context around finding
+  context_lines: 30
+  # Max lines per snippet
+  max_snippet_lines: 100
+
+pipeline:
+  # Max findings to process in parallel
+  max_concurrent_findings: 10
+  # Use tree-sitter AST if CodeQL fails
+  fallback_to_ast: true
